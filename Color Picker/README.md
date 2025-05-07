@@ -20,9 +20,9 @@ The **Color Picker** project is a simple and intuitive tool that allows users to
 
 ## Technologies Used
 
-- **HTML**: For structuring the user interface.
-- **CSS**: For styling the color picker and making it visually appealing.
-- **JavaScript**: For handling user interactions, color conversions, and clipboard functionality.
+- **Vite**: To simplify and speed up web application development.
+- **Tailwind CSS**: For styling the color picker and making it visually appealing.
+- **React**: For handling user interactions, colour conversions, and clipboard functionality.
 
 ## How to Use
 
